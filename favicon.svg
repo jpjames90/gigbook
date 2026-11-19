@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0e0f13"/>
+  <g fill="none" stroke="#ffb347" stroke-linecap="round" stroke-linejoin="round">
+    <!-- open book -->
+    <path stroke-width="22" d="M96.0 150.0 Q176.0 124.0 256.0 160.0 Q336.0 124.0 416.0 150.0 L416.0 392.0 Q336.0 366.0 256.0 402.0 Q176.0 366.0 96.0 392.0 Z"/>
+    <path stroke-width="18" d="M256.0 160.0 L256.0 402.0"/>
+  </g>
+  <!-- note on the right page -->
+  <g fill="#ffb347">
+    <rect x="338.0" y="188.0" width="16" height="120" rx="6"/>
+    <ellipse cx="322.0" cy="310.0" rx="30" ry="22" transform="rotate(-20 322.0 310.0)"/>
+  </g>
+  <!-- chord lines on the left page -->
+  <g stroke="#ffb347" stroke-width="14" stroke-linecap="round" opacity="0.55">
+    <path d="M140.0 220.0 H216.0"/>
+    <path d="M140.0 268.0 H216.0"/>
+    <path d="M140.0 316.0 H196.0"/>
+  </g>
+</svg>
